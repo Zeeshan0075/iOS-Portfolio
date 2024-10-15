@@ -19,10 +19,12 @@ The Zu App is a public transit application designed to assist the passengers ava
 - UserDefaults & Realm for persistence
 
 ### Screenshots:
-![To-Do List](Project1/Screenshots/zu_screenshot1.png)
-![To-Do List](Project1/Screenshots/zu_screenshot2.png)
-![To-Do List](Project1/Screenshots/zu_screenshot3.png)
-![To-Do List](Project1/Screenshots/zu_screenshot4.png)
+<p float="left">
+  <img src="Project1/Screenshots/zu_screenshot1.png" width="200" />
+  <img src="Project1/Screenshots/zu_screenshot2.png" width="200" />
+  <img src="Project1/Screenshots/zu_screenshot3.png" width="200" />
+  <img src="Project1/Screenshots/zu_screenshot4.png" width="200" />
+</p>
 
 ### Links:
 - [AppStore Link](https://apps.apple.com/ae/app/zu-peshawar/id1532389509)
