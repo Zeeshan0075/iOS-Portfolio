@@ -26,10 +26,32 @@ The Zu App is a public transit application designed to assist the passengers ava
   <img src="Project1/Screenshots/zu_screenshot4.png" width="200" />
 </p>
 
-### Links:
-- [AppStore Link](https://apps.apple.com/ae/app/zu-peshawar/id1532389509)
-
 ---
+
+## 📱 [Project 2: Q App by Qode](https://apps.apple.com/ae/app/q-app-by-qode/id1587508672)
+
+An online platform which is a mixer of social and sports. It lets people connect with each other, explore Sports Venues across UAE or book for any upcoming event in the UAE or create any activity online by yourself, invite others to join you, share your thoughts with your friends.
+
+### Features:
+- See what others are upto.
+- Book for sports Venues.
+- Buy for any upcoming or ongoing event.
+- Share your thoughts.
+- Create social activities and Connect with like minded people.
+
+### Tech Stack:
+- Swift
+- UIKit
+- UserDefaults
+
+### Screenshots:
+<p float="left">
+  <img src="Project2/Screenshots/q_screenshot1.jpeg" width="200" />
+  <img src="Project2/Screenshots/q_screenshot2.jpeg" width="200" />
+  <img src="Project2/Screenshots/q_screenshot3.jpeg" width="200" />
+  <img src="Project2/Screenshots/q_screenshot4.jpeg" width="200" />
+</p>
+
 
 ## 💼 Contact Me
 Feel free to reach out if you have any questions or if you'd like to discuss potential projects!
