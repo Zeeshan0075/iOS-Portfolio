@@ -7,14 +7,6 @@ I specialize in **designing, building, and optimizing iOS apps** that meet marke
 
 ---
 
-## 🎯 **What Sets Me Apart?**  
-- 🚀 **Proven Track Record**: Delivered applications with **over 600,000+ users**.
-- 📲 **Diverse Portfolio**: Expertise across **public transit, sports, fitness, and social networking**.
-- 💡 **End-to-End Expertise**: From ideation to development and release, I handle **everything**.
-- 🤝 **Client-Centered Approach**: Focused on building seamless user journeys that align with business goals.
-
----
-
 # 📱 **Highlighted Projects**
 
 ## 🚍 **Zu Peshawar** – A Public Transit App   
